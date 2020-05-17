@@ -40,5 +40,9 @@ A browser window will open. Click on the required files to open them in a new ta
 - category tree- Pending
 
 ## Modeling with LightFM
+- Training Done with accuracy = 97% 
+- Testing Done with accuracy = 87%
 
+## ML model API
+- For API Documentaion, go inside api directory
 
